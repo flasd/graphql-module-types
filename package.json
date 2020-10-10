@@ -1,6 +1,6 @@
 {
   "name": "@flasd/graphql-module-types",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.d.ts",
   "license": "MIT",
   "author": "Marcel Coelho <flasd2@gmail.com>",
