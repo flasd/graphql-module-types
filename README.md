@@ -5,7 +5,7 @@ Small module to add types for '*.gql' and '*.graphql' modules.
 ## Installation
 Install the latest version of @flasd/graphql-module-types:
 ```
-npm install cpf-check --save
+npm install @flasd/graphql-module-types --save
 
 // or
 
