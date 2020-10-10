@@ -1,0 +1,10 @@
+{
+  "name": "@flasd/graphql-module-types",
+  "version": "1.1.0",
+  "main": "index.d.ts",
+  "license": "MIT",
+  "author": "Marcel Coelho <flasd2@gmail.com>",
+  "peerDependencies": {
+    "graphql": "^15.3.0"
+  }
+}
