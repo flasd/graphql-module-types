@@ -1,5 +1,5 @@
-# cpf-check
-CPF generator, validator and formatter that runs both on the browser and in the server. Super small, only 447 Bytes gzipped.
+# graphql-module-types
+Small module to add types for '*.gql' and '*.graphql' modules.
 
 
 ## Installation
